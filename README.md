@@ -10,7 +10,10 @@
 🌱 Exploring **cloud, distributed systems, real-time data, and generative AI**.  
 ☕ Fueled by curiosity… and probably too much coffee.  
 
-📫 Reach me at: <a href="mailto:selma.bouabidi@insat.ucar.tn">selma.bouabidi@insat.ucar.tn</a>
+📫 Reach me at: <p align="center">
+  <a href="https://linkedin.com/in/selma-bouabidi-938b08237/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:selma.bouabidi@insat.ucar.tn"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -42,10 +45,3 @@
 
 ---
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/selma-bouabidi-938b08237/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:selma.bouabidi@insat.ucar.tn"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-</p>  
-
----
